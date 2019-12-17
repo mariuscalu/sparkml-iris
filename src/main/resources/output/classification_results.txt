@@ -1,0 +1,8 @@
+precision : 0.9230769230769231
+weightedPrecision : 0.9253122945430639
+fMeasure : 0.9230769230769231
+weightedFMeasure : 0.9233746898263028
+recall : 0.9230769230769231
+weightedRecall : 0.923076923076923
+weightedFalsePositiveRate : 0.040629258020562366
+weightedTruePositiveRate : 0.923076923076923
